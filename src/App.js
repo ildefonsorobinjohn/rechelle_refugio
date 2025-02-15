@@ -81,7 +81,7 @@
 
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import bgMusic from "./../src/regal.mp3"; // Add your mp3 file in images folder
+import bgMusic from "./../src/regal-(mp3cut.net).mp3"; // Add your mp3 file in images folder
 import homeImage from "./images/home.jpg"; // Replace with actual file names
 import flowersImage from "./images/3.png";
 import memoriesImage from "./images/2.png";
